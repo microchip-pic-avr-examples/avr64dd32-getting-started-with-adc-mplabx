@@ -23,8 +23,8 @@
             "semverRange": "^2.1.152"
         },
         "configurator": {
-            "name": "MCC",
-            "semverRange": ">=6.0.0"
+            "name": "N/A",
+            "semverRange": ""
         },
         "device": {
             "metaDataVersion": "1.0.0",
